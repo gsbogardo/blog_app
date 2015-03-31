@@ -1,0 +1,13 @@
+pairs:
+  joc: Jim Clayton; jim.clayton
+  gb: Gregory Bogardo; gregory.s.bogardo
+
+email:
+  prefix: pair
+  domain: lmco.com 
+
+email_addresses:
+  gb: gregory.s.bogardo@lmco.com
+  joc: jim.clayton@lmco.com
+
+global: true
